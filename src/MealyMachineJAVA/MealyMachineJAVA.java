@@ -181,7 +181,7 @@ public class MealyMachineJAVA {
         System.out.println("\t The report has been analysed by a very intellegent machine");
         System.out.println("\tand the result is: " + result_of_test());
         System.out.println("\t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-        System.out.println("\n\tThe intellegent software is developed by SAI PRADYUMN SHRIVASTAVA");        
+        System.out.println("\n\tThe intellegent software is developed by SAI PRADYUMN SHRIVASTAVA and SHRADHA CHATURVEDI");        
     }
     
     public static void main(String[] args) {
